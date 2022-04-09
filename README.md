@@ -24,9 +24,9 @@ Zbog velicine objekata i nemogucnosti postavljanja na gitHub ostavljam link za G
 Iz preuzetog direktorijuma otvoriti folder **objekti** unutar kog se nalazi folder **objects** koji treba ubaciti u direktorijum resources.
 
 #Resursi 
-1. Engel1: https://sketchfab.com/3d-models/engel-62957ad1736a43369c60a8f402e9ae27
+1. Angel1: https://sketchfab.com/3d-models/engel-62957ad1736a43369c60a8f402e9ae27
 2. Christ: https://sketchfab.com/3d-models/christusfigur-f05c0c0b126e48b7b9d31adad6f94f37
-3. Engel2: https://sketchfab.com/3d-models/engel-217fc94ffa1443ccac82ffce27b875f1
+3. Angel2: https://sketchfab.com/3d-models/engel-217fc94ffa1443ccac82ffce27b875f1
 4. Pavilion: https://rigmodels.com/model.php?view=Greek_Pavilion-3d-model__3UEVSMJPECNQWYGX8TJA3HP6L&searchkeyword=pavilion%20stage
 5. Platform: https://rigmodels.com/model.php?view=Platform-3d-model__KT06ZA8NPCLRPYON8BOA8WF0N&searchkeyword=platform
 
