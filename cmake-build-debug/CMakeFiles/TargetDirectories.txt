@@ -1,0 +1,10 @@
+/home/marko/Downloads/project_base-main (2)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marko/Downloads/project_base-main (2)/cmake-build-debug/CMakeFiles/project_base.dir
+/home/marko/Downloads/project_base-main (2)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marko/Downloads/project_base-main (2)/cmake-build-debug/CMakeFiles/STB_IMAGE.dir
+/home/marko/Downloads/project_base-main (2)/cmake-build-debug/libs/glad/CMakeFiles/edit_cache.dir
+/home/marko/Downloads/project_base-main (2)/cmake-build-debug/libs/glad/CMakeFiles/rebuild_cache.dir
+/home/marko/Downloads/project_base-main (2)/cmake-build-debug/libs/glad/CMakeFiles/glad.dir
+/home/marko/Downloads/project_base-main (2)/cmake-build-debug/libs/imgui/CMakeFiles/rebuild_cache.dir
+/home/marko/Downloads/project_base-main (2)/cmake-build-debug/libs/imgui/CMakeFiles/edit_cache.dir
+/home/marko/Downloads/project_base-main (2)/cmake-build-debug/libs/imgui/CMakeFiles/imgui.dir
