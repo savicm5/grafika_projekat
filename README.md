@@ -17,6 +17,7 @@ Use your diving flashlight or the magic stone to rediscover the lost monuments, 
 11. **B** --> ukljucivanje/iskljucivanje bloom efekta
 12. **Fn + F1** --> ukljucivanje/iskljucivanje Imgui prikaza
 13. **Fn + F2** --> davanje/ukidanje dozvole za izlazak van hrama
+14. **F** --> paljenje/gasenje flashlight svetla
 
 #Napomena : 
 Zbog velicine objekta i nemogucnosti postavljanja na gitHub ostavljam link za Google Drive sa folderima za objekte: https://drive.google.com/drive/folders/1TGZ77uPfsF76YRGtiIO6OfOMEpkobSVI?usp=sharing
