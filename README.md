@@ -18,11 +18,10 @@ Use your diving flashlight or the magic stone to rediscover the lost monuments, 
 12. **Fn + F1** --> ukljucivanje/iskljucivanje Imgui prikaza
 13. **Fn + F2** --> davanje/ukidanje dozvole za izlazak van hrama
 
-
-
-#Resursi 
+#Napomena : 
 Zbog velicine objekta i nemogucnosti postavljanja na gitHub ostavljam link za Google Drive sa folderima za objekte: https://drive.google.com/drive/folders/1TGZ77uPfsF76YRGtiIO6OfOMEpkobSVI?usp=sharing
 
+#Resursi 
 1. Engel1: https://sketchfab.com/3d-models/engel-62957ad1736a43369c60a8f402e9ae27
 2. Christ: https://sketchfab.com/3d-models/christusfigur-f05c0c0b126e48b7b9d31adad6f94f37
 3. Engel2: https://sketchfab.com/3d-models/engel-217fc94ffa1443ccac82ffce27b875f1
