@@ -20,6 +20,7 @@ Use your diving flashlight or the magic stone to rediscover the lost monuments, 
 
 #Napomena : 
 Zbog velicine objekta i nemogucnosti postavljanja na gitHub ostavljam link za Google Drive sa folderima za objekte: https://drive.google.com/drive/folders/1TGZ77uPfsF76YRGtiIO6OfOMEpkobSVI?usp=sharing
+
 #Resursi 
 1. Engel1: https://sketchfab.com/3d-models/engel-62957ad1736a43369c60a8f402e9ae27
 2. Christ: https://sketchfab.com/3d-models/christusfigur-f05c0c0b126e48b7b9d31adad6f94f37
